@@ -1,4 +1,4 @@
-#Frontrunning Bot (Sandwich Bot) - EVM
+# Frontrunning Bot (Sandwich Bot) - EVM
 
 ## Overview
 
@@ -14,7 +14,7 @@ Once the sandwich bot has calculated the optimal number of tokens to buy, it'll 
 
 ## Running the bot
 
-Add your node and your private_key in the `.env` file. If you have your own sandwich bot contract, you can also change the `SANDWICH_CONTRACT` address.
+Add your node and your private_key in the `.env.example` file and rename it to `.env`. If you have your own sandwich bot contract, you can also change the `SANDWICH_CONTRACT` address.
 
 How to get Private Key from Metamask: https://support.metamask.io/hc/en-us/articles/360015289632-How-to-export-an-account-s-private-key
 
