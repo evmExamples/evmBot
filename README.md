@@ -19,6 +19,7 @@ Add your node and your private_key in the `.env` file. If you have your own sand
 How to get Private Key from Metamask: https://support.metamask.io/hc/en-us/articles/360015289632-How-to-export-an-account-s-private-key
 
 ```bash
+cd bot
 yarn bot
 ```
 
